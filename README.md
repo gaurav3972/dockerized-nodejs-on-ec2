@@ -118,7 +118,7 @@ npm-debug.log
 * Allow inbound ports: `22` (SSH) and `3000` (App)
 
 ---
-![](https://github.com/gaurav3972/dockerized-nodejs-on-ec2/blob/master/images/Screenshot%202025-06-24%20165333.png)
+![](https://github.com/gaurav3972/dockerized-nodejs-on-ec2/blob/master/images/Screenshot%202025-06-24%20165333.png  )
 ### 5️⃣ Install Docker on EC2
 
 SSH into your EC2 instance:
@@ -207,3 +207,5 @@ This project is perfect to showcase:
 * AWS EC2 deployment
 * Node.js backend knowledge
 
+## 📕 Summary:
+This visually engaging workflow showcases the modern deployment of a Node.js application using Docker and AWS EC2. It all starts with a Dockerfile — the blueprint that defines how the app is built. From the developer’s laptop, Docker takes over to package the app into a lightweight, portable container called `node-docker-app`. This container encapsulates everything the app needs to run, ensuring consistency across environments. The magic continues as the container is deployed seamlessly to an AWS EC2 instance, where the application goes live. Connected to cloud storage or a database, the setup ensures scalability, reliability, and efficiency. This approach empowers developers to build once and deploy anywhere — fast, clean, and cloud-ready.
