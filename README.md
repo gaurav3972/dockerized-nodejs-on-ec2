@@ -21,10 +21,8 @@ A simple Node.js application containerized using Docker and deployed on an AWS E
 - AWS EC2 (Ubuntu)
 
 ---
-
+![](https://github.com/gaurav3972/dockerized-nodejs-on-ec2/blob/master/images/20..0.png)
 ## 📁 Project Structure
-
-
 ````
 docker-aws-project/
 ├── app/
@@ -113,14 +111,14 @@ npm-debug.log
 ```
 
 ---
-
+![](https://github.com/gaurav3972/dockerized-nodejs-on-ec2/blob/master/images/Screenshot%202025-06-24%20165323.png)
 ### 4️⃣ Launch an Ubuntu EC2 Instance
 
 * Use Ubuntu 22.04 or Amazon Linux 2
 * Allow inbound ports: `22` (SSH) and `3000` (App)
 
 ---
-
+![](https://github.com/gaurav3972/dockerized-nodejs-on-ec2/blob/master/images/Screenshot%202025-06-24%20165333.png)
 ### 5️⃣ Install Docker on EC2
 
 SSH into your EC2 instance:
@@ -198,7 +196,7 @@ Cloud & DevOps Enthusiast
 ---
 
 ## 📷 Sample Screenshot
-
+![](https://github.com/gaurav3972/dockerized-nodejs-on-ec2/blob/master/images/Screenshot%202025-06-24%20165311.png)
 ---
 
 ## 🏁 Final Notes
